@@ -11,7 +11,10 @@ In this project, we designed and implemented a backend database system for a fic
 - **Relational Algebra Queries**: Implemented key application functionalities like retrieving available flights, customer bookings, and additional operational queries.
 
 The repository contains the following files:
-- .drawio file $to$ conceptual UML diagram
+- .drawio --> conceptual UML diagram
+- .pdf --> final submission report
+- Script2.sql --> code to design the database
+- Script4.sql --> code to populate tables with synthetic data
 
 ---
 *This project was developed as part of the academic coursework and follows the assignment guidelines provided by the course instructor.*
