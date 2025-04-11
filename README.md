@@ -2,7 +2,7 @@
 
 This is a Data Management project by Simon Vellin and Hannes Schiemann, submitted as part of our MSc in Data Science at the Barcelona School of Economics. 
 
-In this project, we designed and implemented a backend database system for a fictional airline aiming to modernize its flight bookings, customer management, and operational processes. The assignment involved:
+This repository contains the designs and implementation of a backend database system for a fictional airline aiming to modernize its flight bookings, customer management, and operational processes. The assignment involved:
 
 - **Conceptual Modeling**: UML diagram outlining customer, booking, flight, aircraft, and maintenance relationships.
 - **Logical Modeling**: Commented SQL statements to create normalized tables in PostgreSQL, enforcing primary keys, foreign keys, and constraints.
